@@ -11,7 +11,7 @@
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 #### Technologies:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
@@ -28,3 +28,4 @@
 #### OS:
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+g
