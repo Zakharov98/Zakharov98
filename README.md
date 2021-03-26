@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 
 #### Tools:
-![MS Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
+![Office](https://img.shields.io/badge/-MSOffice-333333?style=flat&logo=Office)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
